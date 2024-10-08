@@ -1,0 +1,1 @@
+{"uuid":"c17f36a6-ca87-47cd-807a-8752e46a5fe0","name":"Base.BaseProg.setUP","children":["ea64a00b-45c9-4fc4-821a-29234a1efba4"],"description":"","befores":[{"name":"setUP","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1728412968629,"stop":1728412968629}],"afters":[],"start":1728412968629,"stop":1728412968629}
